@@ -98,5 +98,7 @@
 </br></br>
 
 <p align="center">
-  <img src="https://wakatime.com/share/@meilie389/aad81403-f139-44b4-aa7e-2cf4f642830d.svg" width="70%"/>
+  <a href="https://wakatime.com/share/@meilie389/aas81403-f139-44b4-aa7e-2cf4f642830d.svg" target="_blank">
+    <img src="https://wakatime.com/share/@meilie389/aad81403-f139-44b4-aa7e-2cf4f642830d.svg" width="70%"/>
+  </a>
 </p>
