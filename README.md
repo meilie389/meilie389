@@ -27,6 +27,7 @@
 
 <p align="center">📫 How to reach me : <a href="mailto:bossart.emilie@gmail.com"> <b> send email </b> </a></p>  
   
+  
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=meilie389&custom_title=Meilie389&show_owner=true&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight" width="50%"/>
 </p>
@@ -34,8 +35,6 @@
 <p align="center">
 <img src="https://metrics.lecoq.io/meilie389" width="50%"/>  
 </p>
-
- </br></br>
 
 
 <h2 align="center"> Connect with me  </h2>
