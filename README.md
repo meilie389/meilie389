@@ -23,7 +23,7 @@
 
 <p align="center">🌱 I’m currently learning <b> Dart/Flutter, Angular </b></p>  
 
-<p align="center">👨‍💻 My online portfolio : <a href="https://meilie389.github.io/cv-online/"> <b> Here </b> </a></p>  
+<p align="center">👨‍💻 My online portfolio : <a href="https://meilie389.github.io/cv"> <b> Here </b> </a></p>  
 
 <p align="center">📫 How to reach me : <a href="mailto:bossart.emilie@gmail.com"> <b> send email </b> </a></p>  
   
