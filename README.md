@@ -1,104 +1,65 @@
 
-<p align="center" width="100%">
-  <img src="https://user-images.githubusercontent.com/41884305/96191953-da78f700-0f90-11eb-9a1d-9614b40543e2.gif" align="center" width="100%" />
-</p>  
   
+# Hi, I'm Meilie 👋
 
-# <div align="center">Hi 👋, I'm meilie389 <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/meilie389" alt="visitor badge"/> </div>  
+### Full-stack developer from New Caledonia 🏝️
+
+I build web applications and work mainly with **Java / Spring Boot**, **Angular** and **PostgreSQL**.
   
+---
 
-### <div align="center">Student Fullstack developer from New Caledonia 🏝️</div>  
-  
-</br>
+### 👩‍💻 About me
 
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=meilie389" alt="trophies-meilie" />
-  </a> 
-</p>
+- 💼 Full-stack developer in **New Caledonia**
+- 🔐 Working with **Keycloak, OAuth 2.0 / OpenID Connect and IAM**
+- 🏗️ Interested in **application architecture, APIs and developer tooling**
+- 🧪 Building and maintaining automated tests with **Playwright**
+- 🐳 Working with **Docker / Docker Compose**
+- 🐧 Daily development environment: **Linux / WSL**
 
-</br>
+---
 
-<p align="center">🔭 I’m currently working on <a href="https://github.com/adriens/carte-conso-plus-appli"> <b> carte-conso-plus-appli </b> </a> </p>  
+### 🛠️ Tech stack
 
-<p align="center">🌱 I’m currently learning <b> Dart/Flutter, Angular </b></p>  
+#### Backend
 
-<p align="center">👨‍💻 My online portfolio : <a href="https://meilie389.github.io/cv"> <b> Here </b> </a></p>  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=flat-square&logo=flyway&logoColor=white)
 
-<p align="center">📫 How to reach me : <a href="mailto:bossart.emilie@gmail.com"> <b> send email </b> </a></p>  
-  
-  
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=meilie389&custom_title=Meilie389&show_owner=true&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight" width="50%"/>
-</p>
+#### Frontend
 
-<p align="center">
-<img src="https://metrics.lecoq.io/meilie389" width="50%"/>  
-</p>
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
+#### DevOps & Tools
 
-<h2 align="center"> Connect with me  </h2>
-<p align="center">
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+
+---
+
+### 🔗 Find me
+
 <a href="https://github.com/meilie389" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/Meilye1" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://linkedin.com/in/émilie-bossart" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://www.facebook.com/miyako389" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+<a href="https://twitter.com/Meilye1" target="_blank">
+  <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 <a href="https://instagram.com/meilie.389" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</p>  
-  
+  <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://www.facebook.com/miyako389" target="_blank">
+  <img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
 
-</br>
-
-
-<h2 align="center"> My Skill Set </h2>  
-
-<p align="center">
-  <b>Languages : </b> &nbsp;&nbsp;&nbsp; <img style="margin: 50px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" />  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="25" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="25" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="25" />  
-</p>
-
-<p align="center">
-  <b>Backend : </b> &nbsp;&nbsp;&nbsp; <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="25" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="25" />
-</p>
-
-<p align="center">
-  <b>Frontend : </b> &nbsp;&nbsp;&nbsp; <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="AngularJS" height="25" /> 
-</p>
-
-<p align="center">
-  <b>Mobile : </b> &nbsp;&nbsp;&nbsp; <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="25" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="25" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="25" />  
-</p>
-
-<p align="center">
-  <b>Framework : </b> &nbsp;&nbsp;&nbsp; <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="25" />   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/symfony_black_03.svg" alt="Symfony" height="25" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" />  
-</p>
-
-<p align="center">
-  <b>Database : </b> &nbsp;&nbsp;&nbsp; <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="25" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="25" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/elasticsearch.png" alt="Elastic Search" height="25" />  
-</p>
-
-<p align="center">
-  <b>Data Visualization : </b> &nbsp;&nbsp;&nbsp; <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="25" />  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="25" />  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kibana.png" alt="Kibana" height="25" />  
-</p>
-
-<p align="center">
-  <b>Other : </b> &nbsp;&nbsp;&nbsp; <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="25" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="25" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="25" />  
-</p>
-
-</br></br>
-
-<p align="center">
-  <a href="https://wakatime.com/share/@meilie389/aad81403-f139-44b4-aa7e-2cf4f642830d.svg" target="_blank">
-    <img src="https://wakatime.com/share/@meilie389/aad81403-f139-44b4-aa7e-2cf4f642830d.svg" width="70%"/>
-  </a>
-</p>
